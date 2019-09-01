@@ -1,4 +1,4 @@
-Estudo sobre vue-JS
+Curso sobre as funções utilizando VueJS
 
 
 
